@@ -1,0 +1,33 @@
+{
+
+    "key_combos": [
+        {
+            "name": "pickle mane",
+            "keys": ["W", "A"],
+            "audio": "./audio/test1.mp3"
+        },  
+        {
+            "name": "dickle",
+            "keys": ["B"],
+            "audio": "./audio/test2.mp3"
+        },
+        {
+            "name": "snazzy",
+            "keys": ["D"],
+            "audio": "./audio/teset3.mp3"
+        }
+
+    ],
+    "exit_key": "Escape",
+    "settings": {
+        "logging_enabled": true,
+        "logging_delay": 1000,
+        "logging_file": "logs.txt",
+        "audio_enabled": true
+    }
+
+
+
+
+
+}
